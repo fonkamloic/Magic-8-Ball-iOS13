@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "sammy-williams-NRv2W63ZA2M-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "sammy-williams-NRv2W63ZA2M-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "sammy-williams-NRv2W63ZA2M-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
